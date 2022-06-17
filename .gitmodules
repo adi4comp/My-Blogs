@@ -2,3 +2,7 @@
 	path = adi4blogs/public/public
 	url = https://github.com/Adiboy3112/adi4blogs.github.io.git
 	branch = main
+[submodule "adi4blogs/adi4blogs.github.io"]
+	path = adi4blogs/adi4blogs.github.io
+	url = https://github.com/Adiboy3112/adi4blogs.github.io.git
+	branch = main
