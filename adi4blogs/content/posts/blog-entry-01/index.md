@@ -1,6 +1,8 @@
 ---
 title: "Hello World!"
 date: 2022-06-18T01:44:12+05:30
+cover: "mario-hi-unscreen.gif"
+useRelativeCover: true
 ---
 ## Hello Readers, Welcome to Adiboy's Blogs!
 
@@ -15,10 +17,10 @@ But only some basic understandable writeups and something I wish I could have sa
 
 #### Whats next?
 
-I will try to write blog atleast thrice a week, dump some memories(pics), I do want to stay busy writing blogs so I dont waste time doing random stuff. Well this maybe a big thing to commit but I do want to talk about personal finance, self realization, dump photos and maybe someday write lifestyle blog....... phrrrrwww (the last one is just something i like to say i dont know what the hell is that).
+I will try to write blog atleast thrice a week, dump some memories(pics), I do want to stay busy writing blogs so I dont waste time doing random stuff. Well this maybe a big thing to commit but I do want to talk about personal finance, self realization, dump photos and maybe someday write lifestyle blogs....... phrrrrwww (the last one is just something i like to say i dont know what the hell is that).
 
 So yeah thats it.
 <br/><br/>
 
 Signing off \
-Aditya Ranjan Jha
+[Aditya Ranjan Jha](https://github.com/Adiboy3112)
