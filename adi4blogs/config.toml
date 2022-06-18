@@ -9,6 +9,7 @@ paginate = 5
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
+
   # OS theme is default when not provided, but you can force it to "light" or "dark"
   defaultTheme = "light"
 
@@ -29,7 +30,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Adiboy Blogs"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
