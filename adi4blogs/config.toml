@@ -1,4 +1,4 @@
-baseURL = 'https://adiboy3112.github.io/adi4blogs.github.io/'
+baseURL = 'https://adi4blogs.netlify.app/'
 languageCode = 'en-us'
 title = 'Adiboy Blogs'
 theme = "hello-friend"
@@ -45,7 +45,9 @@ paginate = 5
     # lastModDisplay = ""
     [languages.en.params.logo]
       logoText = "Adiboy Blogs"
-      logoHomeLink = "/"
+      logoHomeLink = ""
+      useRelativeLink=true
+      
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -59,6 +61,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "New Blog"
         name = "New Blog!"
-        url = "posts/blog-entry-01/"
+        url = "/posts/blog-entry-01/"
+        useRelativeLink=true
 
       
