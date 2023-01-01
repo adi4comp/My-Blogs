@@ -62,7 +62,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "New Blog"
         name = "New Blog!"
-        url = "/posts/blog-entry-04/"
+        url = "/posts/blog-entry-05/"
         useRelativeLink=true
 
       
