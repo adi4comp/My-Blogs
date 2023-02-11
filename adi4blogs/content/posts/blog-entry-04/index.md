@@ -16,5 +16,8 @@ There will be times when you compare yourself with a person and find your pace i
 - You think that the person doesn't deserve the success and appreciation he/she is getting and you are not getting what you deserve
 
 Well, you can be wrong in both of these scenarios. But if not, start working hard if you have not yet, or in the second scenario know that the world was not fair,is not fair and will never be fair. So just keep doing what you are doing, rather than wasting time ranting, complaining, or regretting just move on. At last, I would say if nothing goes right, don't lose hope, cherrish the things you have right now.
+<br/>
 
+Signing off \
+[Aditya Ranjan Jha](https://github.com/Adiboy3112)
 

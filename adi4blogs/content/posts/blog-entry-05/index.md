@@ -14,4 +14,8 @@ In the acceptance stage being at home helped a lot in the summer breaks and of c
 So yes, My 2022 story doesn't end on a perfect note, but what an amazing year I had. I learned so much, I enhanced my power of retrospection, I got some amazing confidence boosting opportunities, got more clear picture of what I want to become, came closer to my family and best of all made some amazing friends along the way, who I expect are the only readers of this blog. So happy new year folks, wish you an amazing year ahead. So with me in 2023 I carry a lot of work opportunities to convert into outcome, a poor physical health which I wish to repair and kind of my only resolution, this year and hope for the end of my yips on the social front of my personality. I also wish to connect with many people who I never contacted in 2022 and they were a crucial part of my life before that.
 
 PS: Completing this blog from Bhutan.
+<br/>
+
+Signing off \
+[Aditya Ranjan Jha](https://github.com/Adiboy3112)
 
