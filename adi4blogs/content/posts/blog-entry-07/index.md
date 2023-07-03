@@ -1,8 +1,8 @@
 ---
 title: "Second Month into retrospection"
 date: 2023-03-21T08:56:18+05:30
-cover: "image.jpg"
-useRelativeCover: true
+tags: [retrospection,rants]
+categories: [note to self]
 ---
 
 ![](image.jpg)

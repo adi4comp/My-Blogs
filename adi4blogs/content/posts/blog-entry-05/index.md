@@ -1,8 +1,8 @@
 ---
 title: "Y22 Wrapped!"
 date: 2022-12-31T23:40:26+05:30
-cover: "blog-cover.jpg"
-useRelativeCover: true
+tags: [rants]
+categories: [life-update]
 ---
 
 ![](blog-cover.jpg)

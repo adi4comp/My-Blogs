@@ -1,8 +1,8 @@
 ---
 title: "A Question, I can't Really answer right now."
 date: 2022-06-25T01:42:34+05:30
-cover: "cover.jpg"
-useRelativeCover: true
+tags: [retrospection,rants]
+categories: [note to self]
 ---
 
 ![](cover.jpg)

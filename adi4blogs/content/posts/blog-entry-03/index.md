@@ -1,8 +1,8 @@
 ---
 title: "PS: I am not dead"
 date: 2022-08-19T04:24:32+05:30
-cover: "image02.jpg"
-useRelativeCover: true
+tags: [rants]
+categories: [life-update]
 ---
 
 ![](image02.jpg)

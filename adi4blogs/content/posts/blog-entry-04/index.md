@@ -1,8 +1,8 @@
 ---
 title: "Dear Freshman year friends......"
 date: 2022-12-29T20:09:17+05:30
-cover: "blog4-cover.png"
-useRelativeCover: true
+tags: [freshman-year,college]
+categories: [information]
 ---
 
 ![](blog4-cover.png)

@@ -1,8 +1,8 @@
 ---
 title: "First month into retrospection"
 date: 2023-02-11T19:47:55+05:30
-cover: "blog6-cover.jpg"
-useRelativeCover: true
+tags: [retrospection,rants]
+categories: [note to self]
 ---
 
 ![](blog6-cover.jpg)

@@ -3,7 +3,7 @@ title: "I am on vacation..."
 date: 2023-06-30T05:59:27-04:00
 draft: false
 tags: [retrospection,rants]
-categories: [note to self]
+categories: [note to self,life-update]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Hello World!"
 date: 2022-06-18T01:44:12+05:30
-cover: "mario-hi-unscreen.gif"
-useRelativeCover: true
+tags: [First-Post]
+categories: [about]
 ---
 
 ![](mario-hi-unscreen.gif)
