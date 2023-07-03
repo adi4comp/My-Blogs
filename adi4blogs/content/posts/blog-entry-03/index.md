@@ -5,6 +5,8 @@ cover: "image02.jpg"
 useRelativeCover: true
 ---
 
+![](image02.jpg)
+
 ## ~~TIL 01/45~~ Summary (Last 45 days)
 
 Last 45 days have been a roller coaster ride for me. I saw some steep falls, some momentary peaks and had some very helpful realizations. After Semester 4, I had a pretty hard time coping up with the shortcomings and results of the semester,I lost my confidence and felt insecure about my career (I still feel that ;_;). Through all this time I felt helpless and drifted away from people. But my family helps me calm down. But one thing I do best is realization, a bit slow but sharp accuracy. 

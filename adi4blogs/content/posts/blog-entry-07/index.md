@@ -5,6 +5,8 @@ cover: "image.jpg"
 useRelativeCover: true
 ---
 
+![](image.jpg)
+
 February started with tests and midsems, I could not focus on my work because of the same although somehow I managed to go through the stressful midsem fortnite without much panic this time, although I could have studied a bit more for my electives. Other than this time I was involved in one of my project works and lost a track of time and couldn't balance time and this time I was struck so deep into one of the projects that when I went home I couldn't spend time with my family too. Through this, I realized a positive and negative quality of my character. The positive reinforcement was not just self-realization but was through the appreciation of the project mentors. The positive quality was me being stuck to the problem until it is resolved, thus helping me realize my only strength, hard work. The negative being struck to the problem until it is resolved, being cocky and skipping my regular routine, going absolutely off my schedule. And as I speak of this, it can be easily inferred that I still have discipline issues as stated in the previous blog.
 
 One of these days was Holi, it was one of the dullest and most depressing days on my campus as my friends whom I am usually with, were home. I made a resolution to have some routine in my life, I was able to simulate it for slightly over a week. But again when the project I was so involved with getting over on Friday. After all the mental exhaustion, I felt the need to have a day off. I planned to study some books related to my curriculum and others but I just skipped all of that and till this time I am binge-watching suits, completely gone off track, the schedule has been disrupted and I am still not able to bring it on track.

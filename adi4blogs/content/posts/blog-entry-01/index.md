@@ -4,6 +4,9 @@ date: 2022-06-18T01:44:12+05:30
 cover: "mario-hi-unscreen.gif"
 useRelativeCover: true
 ---
+
+![](mario-hi-unscreen.gif)
+
 ## Hello Readers, Welcome to Adiboy's Blogs!
 
 #### Why am I starting to write blogs?

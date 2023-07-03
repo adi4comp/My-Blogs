@@ -5,6 +5,8 @@ cover: "cover.jpg"
 useRelativeCover: true
 ---
 
+![](cover.jpg)
+
 ## I really don't know!
 
 Yo! So this is it, finally I am starting to write this blog. I have been planning to write this blog since last weekend but mehhhh, I am lazy. So since last one week I have been bombed with a specific genre of questions by my well wishers:
