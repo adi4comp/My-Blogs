@@ -24,7 +24,7 @@ But again the best thing I have learnt this summer is to calm down and let time 
 P.S. -> I wrote this blog so that I can calm down and always remember what I really think is a good lesson for me.
 
 Signing off \
-[Aditya Ranjan Jha](https://github.com/Adiboy3112)
+[Aditya Ranjan Jha](https://github.com/adi4comp)
 
 
 

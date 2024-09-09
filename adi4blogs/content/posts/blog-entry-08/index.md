@@ -23,5 +23,5 @@ PS: I asked chatgpt to make the language of my blog elegant and free from typos.
 <br/>
 
 Signing off \
-[Aditya Ranjan Jha](https://github.com/Adiboy3112)
+[Aditya Ranjan Jha](https://github.com/adi4comp)
 

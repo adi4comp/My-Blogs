@@ -26,4 +26,4 @@ So yeah thats it.
 <br/>
 
 Signing off \
-[Aditya Ranjan Jha](https://github.com/Adiboy3112)
+[Aditya Ranjan Jha](https://github.com/adi4comp)

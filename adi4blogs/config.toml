@@ -40,15 +40,15 @@ mainSections = ['posts']
 [[params.footer_rows]]
 [[params.footer_rows.items]]
 name = "Author"
-url = "https://github.com/Adiboy3112"
+url = "https://github.com/adi4comp"
 pre = "With ❤️ <a href=\"https://www.linkedin.com/in/adiboy/\">Aditya Ranjan Jha</a>"
 
 
 [[params.footer_rows]]
 [[params.footer_rows.items]]
 name = "Mozilla Public License Version 2.0"
-url = "https://github.com/Adiboy3112/My-Blogs/blob/master/LICENSE"
-pre = "Copyright <a href=\"https://github.com/Adiboy3112/My-Blogs/blob/master/LICENSE\">MPL Version 2.0</a>"
+url = "https://github.com/adi4comp/My-Blogs/blob/master/LICENSE"
+pre = "Copyright <a href=\"https://github.com/adi4comp/My-Blogs/blob/master/LICENSE\">MPL Version 2.0</a>"
 
 [[params.footer_rows]]
 [[params.footer_rows.items]]
@@ -72,7 +72,7 @@ weight = 30
 # weight = 40
 
 [[menus.main]]
-url = "https://adi4web.netlify.app/"
+url = "https://github.com/adi4comp"
 name = "About"
 weight = 80
 

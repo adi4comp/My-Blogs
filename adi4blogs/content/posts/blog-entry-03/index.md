@@ -20,7 +20,7 @@ I have/had many problems to deal with but I gained a bit of confidence in myself
 The only thing I learnt from last 2 months is that, the beauty of time is that whether good or bad it passes away...
  
 Signing off \
-[Aditya Ranjan Jha](https://github.com/Adiboy3112)
+[Aditya Ranjan Jha](https://github.com/adi4comp)
 
 
 

@@ -37,4 +37,4 @@ Cheers! Happy New year folks.Thanks for reading, see you soon.
 
 
 Signing off \
-[Aditya Ranjan Jha](https://github.com/Adiboy3112)
+[Aditya Ranjan Jha](https://github.com/adi4comp)
