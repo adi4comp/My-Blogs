@@ -1,6 +1,6 @@
 baseURL = 'https://adi4blogs.netlify.app/'
 languageCode = 'en-us'
-title = 'Adiboy Blogs'
+title = 'Aditya Unfiltered'
 theme = "flat"
 enableRobotsTXT = true
 hasCJKLanguage = true
