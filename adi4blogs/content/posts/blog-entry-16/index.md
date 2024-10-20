@@ -5,6 +5,7 @@ draft: false
 tags: [watch-me-grow, retrospection]
 categories: [TIL]
 ---
+![](image.png)
 
 This week I learned something that feels like a superpower. It’s not easy to learn, and I don’t think there's a course for it, but it’s one of those things that, once you realize, changes how you think forever. So, buckle up—this is the introduction to some very formal lessons coming up soon.
 
