@@ -28,7 +28,7 @@ Another thing I’ve learned is about maintaining context size—each word shoul
 
 Here’s the cool part: I now appreciate all the things I used to overlook. Diagrams in scientific texts, animations in videos, slides in presentations—each word spoken by a presenter has a purpose. It’s so difficult to encapsulate a whole idea in just a few minutes of talking or writing. And it’s not just short presentations—long ones are hard too, because people are more likely to zone out. The challenge is to keep their attention and communicate the core idea early.
 
-Since joining this program, I’ve seen some excellent presentations. What stood out to me was how much time these presenters spent setting up the background. Only about 25% of the time was devoted to their actual contribution. This is exactly what our bachelor thesis presentations at KGP trained us for: spend most of the time on the results! Back then, I thought the focus on results was about proving our sincerity, not the novelty of our ideas (especially since we only had 10 minutes to present).
+Since joining this program, I’ve seen some excellent presentations. What stood out to me was how much time these presenters spent setting up the background. Only about 25% of the time was devoted to their actual contribution. This is exactly opposite of what our bachelor thesis presentations at KGP trained us for: spend most of the time on the results! I think the focus on results was about proving our sincerity, not the novelty of our ideas (especially since we only had 10 minutes to present).
 
 So, yeah, this blog may not fully follow the lessons I’ve learned this week, but it’s a start. I’ll be writing more technical blogs from here on out, putting these new skills into practice. Stay tuned!
 
