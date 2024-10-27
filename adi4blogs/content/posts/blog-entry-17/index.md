@@ -2,8 +2,8 @@
 title: "Time"
 date: 2024-10-27T23:33:27+08:00
 draft: false
-tags: [watch-me-grow, retrospection]
-categories: [TIL]
+tags: [something-to-think-about]
+categories: [random-thoughts]
 ---
 ![](image.png)
 
